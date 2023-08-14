@@ -1,6 +1,5 @@
 ---
 layout: post
-Huu Quan
-Atticus Nguyen
+Huu Quan: Atticus Nguyen
 ---
 
